@@ -28,4 +28,3 @@ data class Sport(
     val sportsImageBanner: Int,
     val newsDetails: Int = R.string.sports_news_detail_text
 )
-
